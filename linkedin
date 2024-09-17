@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Garima Swami</title>
+    <link rel="stylesheet" href="resume.css">
+</head>
+
+<body>
+    <header>
+        <h1>GARIMA SWAMI</h1>
+        <p>Full Stack Developer Trainee</p>
+
+    </header>
+
+    <div class="Contact">
+        <h2>Contact:</h2>
+        <hr>
+        <ul>
+            <li>+91-6375926694</li>
+            <li>Gmail - garimaarankawat@gmail.com</li>
+            <li>Linkedin - www.linkedin.com/in/garima-swami-0b2865320 </li>
+            <li>Churu, Rajasthan, India</li>
+        </ul>
+    </div>
+    <div class="skill">
+        <h2>Skills:</h2>
+        <hr>
+        <ul>
+            <li>
+                <h4>Technical skills:</h4>
+                <p>HTML5, CSS, JAVASCRIPT, React.JS, Node.JS</p>
+            </li>
+            <li>
+                <h4>Soft Skills:</h4>
+                <p>Effective Communication, Problem Solving, Time Management, Leadership </p>
+            </li>
+        </ul>
+    </div>
+    <div class="education">
+        <h2>Education:</h2>
+        <hr>
+        <ul>
+            <li>
+                <h4>Skill Academy by Testbook (2024 - ongoing)</h4>
+                <p>Full Stack Developer Program</p>
+            </li>
+            <li>
+                <h4>Maharaja Ganga Singh University, Bikaner</h4>
+                <p>B.Ed (Bechlor of Education)<span class="rgt1">80%</span></p>
+            </li>
+            <li>
+                <h4>Maharaja Ganga Singh University, Bikaner</h4>
+                <p>Graduation: Bechalor of Arts <span class="rgt2">80%</span></p>
+                <p> Class 12: PCM <span class="rgt3">81%</span></p>
+            </li>
+        </ul>
+    </div>
+    <div class="project">
+        <h2>Project:</h2>
+        
+
+    </div>
+    <div class="about">
+        <h2>About:</h2>
+        <hr>
+        <p>I am a recent BA graduate currently training as a Full Stack Developer at Skill Academy by Testbook.At Skill
+            Academy, I am
+            developing a comprehensive skill set that encompasses both front-end and back-end technologies. My training
+            has equipped
+            me with hands-on experience in programming languages, frameworks, and tools essential for creating robust
+            and user-friendly
+            web applications.In addition to my technical skills, I bring a strong work ethic, an eagerness to learn, and
+            the ability to adapt
+            quickly to new challenges. I am excited about the opportunity to work in a collaborative environment where I
+            can further
+            develop my skills and contribute to innovative projects. Feel free to connect with me to discuss potential
+            opportunities, share
+            insights, or collaborate on exciting projects!
+        </p>
+    </div>
+    <div class="lang">
+        <h2>Language:
+        </h2>
+        <ul>
+            <li>Hindi </li>
+            <li>English</li>
+        </ul>
+    </div>
+</body>
+
+</html>
